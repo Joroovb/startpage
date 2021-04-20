@@ -26,9 +26,8 @@ body {
 
 .footer {
   margin-top: 50px;
-  max-width: 1000px; /* Stop het verspringen*/
-  min-width: 1000px; /* Stop het verspringen*/
-  min-height: 100px; /* Stop het verspringen*/
+	width: 1000px;
+  height: 100px; /* Stop het verspringen*/
   font-size: medium;
   text-align: center;
 }
